@@ -4,7 +4,8 @@ GitHub Pages機能を使って公開されたページは[こちら](https://elm
 https://elmas3.github.io/mao-seminar/
 #メンバー
 mmmmmmmmm
-
+#大学名を追加
+っっっっm
 # ディレクトリ構成
 ```
 seminar/
